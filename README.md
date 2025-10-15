@@ -11,7 +11,7 @@
 
 ## Установка
 ```bash
-git clone https://github.com/<sulu-sk>/port-scanner.git
+git clone https://github.com/sulu-sk/port-scanner.git
 cd port-scanner
 python -m venv venv
 source venv/bin/activate  # Linux/Mac
